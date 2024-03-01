@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613185692296",
+    "firebase_url": "https://sfk-mcic-gcm-198203.firebaseio.com",
+    "project_id": "sfk-mcic-gcm-198203",
+    "storage_bucket": "sfk-mcic-gcm-198203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613185692296:android:7f1a3a4b4664f0ce",
+        "android_client_info": {
+          "package_name": "com.sfk.mcic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613185692296-72v0me932khjl800ic3gl7m0o0o9ma25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sfk.mcic",
+            "certificate_hash": "58ed6cd86a9d7d058a210802956cfab76b5dd67c"
+          }
+        },
+        {
+          "client_id": "613185692296-stl92lkaef5o5npief57m0c2sht75ij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcljG6wwgYUTlPhW-kuru4GqEAz5H9NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613185692296-stl92lkaef5o5npief57m0c2sht75ij1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

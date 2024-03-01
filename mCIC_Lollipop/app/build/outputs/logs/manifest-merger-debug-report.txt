@@ -1,0 +1,650 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01237349f0f96bebc711f5e762128848/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fee9b0bc660c0d98a6bf1e92993e6d6b/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:17:1-37:12
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:17:1-123:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2aaba7b0745f03595bd6e8f82ec96dbc/firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3ebaabcd0a84ac99b85d210e969a0c2/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/322cc201f85313d0fe8a00372df0aaba/firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/26e54d184d6b3ee9bdeb3e739d627e7a/play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3d33838e351be15eed2a31cbf0e805f/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6bda7adf1580b65b89e1f2a541b88a75/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/c30c4e4a5301a7b83d5490556e268f31/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/55153125386be2d4793aa3e7b4cdd8f6/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/5d15fd0bb879e4cce06bb8a3d73336c8/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bc42f92cc4d989fe155be38b0df306c5/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/572940e56b1da3ea427afca67601b6f2/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bf81914e4b324f830c72d543f211743a/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01de180e4664f10a5903df740d6df748/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/97787544d801717bf61805c32ee5789d/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6a615dc379bfb391e0cdeb798296e758/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/e299a42c688a88b5058e8513bf9ce744/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/140f6b08565fae4b3b6a02eb63635038/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b8a0a5ed8c76ebeeebe106b631643189/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/99a382a45ccd27f29216525da3766418/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/236cbeece98d50c75478c74e95e01e9c/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b6f6ce926e4afa327ef237ce167ef63d/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/ed2c1b7345b8cbe393a1a5e4160777c4/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/d537a24643ec31e4a5afd05526fe9b6a/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/483f8aa693ecc72552b72519ea612871/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/37cdbead0dab0f5f2e20c2d3d6eb816e/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2b4403129f5dd646c23624934bfb8b94/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fb7564927b85f56cc8eb33a9e612fa99/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b0a90b051720b7bdab49a777a9c4f098/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b85e1fbc0bbf51dc199e28a0eb2df55b/db-framework-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fe66f50159cdd2101d461c4a87604d03/db-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/60ba67f3b77063be09f9531c16c246f6/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:4:5-27
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:23:5-68
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:11:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:11:22-79
+permission#com.sfk.mcic.permission.C2D_MESSAGE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:14:9-59
+uses-permission#com.sfk.mcic.permission.C2D_MESSAGE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:18:22-63
+uses-feature#android.hardware.camera
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:20:5-22:35
+	android:required
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:21:9-47
+application
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:24:5-92:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fee9b0bc660c0d98a6bf1e92993e6d6b/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fee9b0bc660c0d98a6bf1e92993e6d6b/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2aaba7b0745f03595bd6e8f82ec96dbc/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2aaba7b0745f03595bd6e8f82ec96dbc/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3ebaabcd0a84ac99b85d210e969a0c2/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3ebaabcd0a84ac99b85d210e969a0c2/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/322cc201f85313d0fe8a00372df0aaba/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/322cc201f85313d0fe8a00372df0aaba/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/26e54d184d6b3ee9bdeb3e739d627e7a/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/26e54d184d6b3ee9bdeb3e739d627e7a/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/99a382a45ccd27f29216525da3766418/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/99a382a45ccd27f29216525da3766418/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:28:9-41
+	android:hardwareAccelerated
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:26:9-44
+	tools:ignore
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:33:9-48
+	android:roundIcon
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:29:9-51
+	android:icon
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:27:9-46
+	android:allowBackup
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:31:9-65
+	android:usesCleartextTraffic
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:32:9-44
+activity#com.sfk.mcic.MainActivity2
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:34:19-48
+uses-library#org.apache.http.legacy
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:36:9-38:40
+	android:required
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:37:13-50
+activity#com.sfk.mcic.ListActivity
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:41:13-41
+activity#com.sfk.mcic.DetailActivity
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:43:9-47:52
+	android:screenOrientation
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:46:13-58
+	android:exported
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:44:13-43
+activity#com.sfk.mcic.ShowsinglephotoActivity
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:49:13-52
+activity#com.sfk.mcic.LoginActivity
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:53:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:58:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:65:9-73:20
+	android:grantUriPermissions
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:69:13-47
+	android:authorities
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:67:13-59
+	android:exported
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:66:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:70:13-72:54
+	android:resource
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:72:17-51
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:71:17-67
+service#com.sfk.mcic.Service.RegistrationIntentService
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:75:9-77:48
+	android:exported
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:76:13-62
+service#com.sfk.mcic.Service.MyFirebaseMessagingService
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:78:9-84:19
+	android:exported
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:79:13-63
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:81:13-83:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:82:25-75
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:86:9-88:37
+	android:value
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:88:13-34
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:87:13-64
+meta-data#firebase_analytics_collection_enabled
+ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:89:9-91:37
+	android:value
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:91:13-34
+	android:name
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml:90:13-65
+uses-sdk
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01237349f0f96bebc711f5e762128848/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01237349f0f96bebc711f5e762128848/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fee9b0bc660c0d98a6bf1e92993e6d6b/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fee9b0bc660c0d98a6bf1e92993e6d6b/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2aaba7b0745f03595bd6e8f82ec96dbc/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2aaba7b0745f03595bd6e8f82ec96dbc/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3ebaabcd0a84ac99b85d210e969a0c2/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3ebaabcd0a84ac99b85d210e969a0c2/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/322cc201f85313d0fe8a00372df0aaba/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/322cc201f85313d0fe8a00372df0aaba/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/26e54d184d6b3ee9bdeb3e739d627e7a/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/26e54d184d6b3ee9bdeb3e739d627e7a/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3d33838e351be15eed2a31cbf0e805f/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a3d33838e351be15eed2a31cbf0e805f/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6bda7adf1580b65b89e1f2a541b88a75/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6bda7adf1580b65b89e1f2a541b88a75/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/c30c4e4a5301a7b83d5490556e268f31/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/c30c4e4a5301a7b83d5490556e268f31/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/55153125386be2d4793aa3e7b4cdd8f6/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/55153125386be2d4793aa3e7b4cdd8f6/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/5d15fd0bb879e4cce06bb8a3d73336c8/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/5d15fd0bb879e4cce06bb8a3d73336c8/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bc42f92cc4d989fe155be38b0df306c5/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bc42f92cc4d989fe155be38b0df306c5/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/572940e56b1da3ea427afca67601b6f2/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/572940e56b1da3ea427afca67601b6f2/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bf81914e4b324f830c72d543f211743a/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bf81914e4b324f830c72d543f211743a/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01de180e4664f10a5903df740d6df748/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/01de180e4664f10a5903df740d6df748/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/97787544d801717bf61805c32ee5789d/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/97787544d801717bf61805c32ee5789d/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6a615dc379bfb391e0cdeb798296e758/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/6a615dc379bfb391e0cdeb798296e758/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/e299a42c688a88b5058e8513bf9ce744/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/e299a42c688a88b5058e8513bf9ce744/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/140f6b08565fae4b3b6a02eb63635038/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/140f6b08565fae4b3b6a02eb63635038/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b8a0a5ed8c76ebeeebe106b631643189/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b8a0a5ed8c76ebeeebe106b631643189/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/083810096f2ed45d25acda3d599e2fdf/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/99a382a45ccd27f29216525da3766418/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/99a382a45ccd27f29216525da3766418/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/236cbeece98d50c75478c74e95e01e9c/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/236cbeece98d50c75478c74e95e01e9c/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b6f6ce926e4afa327ef237ce167ef63d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b6f6ce926e4afa327ef237ce167ef63d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/ed2c1b7345b8cbe393a1a5e4160777c4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/ed2c1b7345b8cbe393a1a5e4160777c4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/d537a24643ec31e4a5afd05526fe9b6a/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/d537a24643ec31e4a5afd05526fe9b6a/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/483f8aa693ecc72552b72519ea612871/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/483f8aa693ecc72552b72519ea612871/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/37cdbead0dab0f5f2e20c2d3d6eb816e/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/37cdbead0dab0f5f2e20c2d3d6eb816e/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2b4403129f5dd646c23624934bfb8b94/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/2b4403129f5dd646c23624934bfb8b94/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fb7564927b85f56cc8eb33a9e612fa99/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fb7564927b85f56cc8eb33a9e612fa99/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b0a90b051720b7bdab49a777a9c4f098/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b0a90b051720b7bdab49a777a9c4f098/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b85e1fbc0bbf51dc199e28a0eb2df55b/db-framework-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/b85e1fbc0bbf51dc199e28a0eb2df55b/db-framework-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fe66f50159cdd2101d461c4a87604d03/db-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/fe66f50159cdd2101d461c4a87604d03/db-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/60ba67f3b77063be09f9531c16c246f6/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/60ba67f3b77063be09f9531c16c246f6/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/990PRO 2T/mCIC_Lollipop/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/a257431fe6d74b80c160b1d4d138297f/firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/263430fc0c60020fecf3618e905696a2/work-runtime-1.0.1/AndroidManifest.xml:118:25-95
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/82dbc551c7212ca10e41bacaf9d8e57f/extensions-1.1.0/AndroidManifest.xml:24:13-83
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/503a3bd2d9fec1847ebf5f0a1e4f1f0d/firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/444eaaa01f7daf6ae5fcdb0f3460c712/firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/9b5186f5dde0d45ec7a4621182834dc5/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/67615dc7fa03b2f5406eef175747ad0b/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/bb6347fc3c3acc8e7ac26978db8ba910/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/henrywat/.gradle/caches/transforms-2/files-2.1/dbc2b49e5b26ab999a0716df618186cc/support-v4-26.1.0/AndroidManifest.xml:27:13-51

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248747193725",
+    "firebase_url": "https://sfk-mcic-becc8.firebaseio.com",
+    "project_id": "sfk-mcic-becc8",
+    "storage_bucket": "sfk-mcic-becc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248747193725:android:7f1a3a4b4664f0ce",
+        "android_client_info": {
+          "package_name": "com.sfk.mcic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248747193725-vbo6879k6mbph7vm1aq69i4qql6te9fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sfk.mcic",
+            "certificate_hash": "58ed6cd86a9d7d058a210802956cfab76b5dd67c"
+          }
+        },
+        {
+          "client_id": "248747193725-ao07bk6isv03g7ceuncol0etjcjaknnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBTtXuDBNNXQ1HRh_pk_8DEkiTXSWsv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248747193725-ao07bk6isv03g7ceuncol0etjcjaknnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
