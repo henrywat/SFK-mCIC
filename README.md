@@ -4,7 +4,7 @@
 ## Technologies:
 - Android Studio / Android SDK v28
 - MS-SQL2012 / T-SQL
-- Tomcat 8 / Struts2 / JSP / Java Servlet / JQuery
+- Tomcat 8 / Struts2 / JSP / Java Servlet / JQuery / Jasper Report
 
 ---
 
