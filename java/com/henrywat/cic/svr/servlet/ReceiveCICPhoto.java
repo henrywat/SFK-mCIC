@@ -53,10 +53,8 @@ public class ReceiveCICPhoto extends HttpServlet {
     private static final String CONTA_PADRAO = "complaint@sfk05hy2017.com.hk";
     private static final String SENHA_CONTA_PADRAO = "0517@comp";
     
-    //final String gmail_username = "complaint.sfk@gmail.com";
-    final String gmail_username = "complaint.sfk@yahoo.com";
-    //final String gmail_password = "0517@2153sfk";
-    final String gmail_password = "pnxiczqocdbcimag";
+    final String gmail_username = "xxxxxx@yahoo.com";
+    final String gmail_password = "xxxxxxx";
 
 	public ReceiveCICPhoto() {
 		// TODO Auto-generated constructor stub
@@ -255,7 +253,7 @@ public class ReceiveCICPhoto extends HttpServlet {
              		"where g.uid = u.uid " + 
              		"and (u.username like 'cic%' or u.username like 'henry%')";
             //String GOOGLE_SERVER_KEY = "AIzaSyA_cdge37PdDCBczpplW7DtpGUun8rxd1w";
-            String authKey = "AAAAOep89X0:APA91bFaR8NLW2sH0l86Dg52Um61YP7sEikdqUJV3UdtT96in-pySTI-A750AItR4iVKXIQ0qJfjl6gHqC2P4lvuOkz-htYQb-9KNN2owDQZscdtk-TEwGu8LSxibUBcsCIlbCU4N38j";
+            String authKey = "xxxxxxxxxx";
             String FMCurl = "https://fcm.googleapis.com/fcm/send";
              
             stmt = conn.prepareStatement(sql);

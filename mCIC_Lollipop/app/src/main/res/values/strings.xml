@@ -9,17 +9,17 @@
     <string name="label_logo">Logo</string>
     <string name="label_acompdate">Actual Comp Date</string>
     <string name="text_lastUpdate">01 Jan 00:00:00</string>
-    <string name="servletIP">www.emms.sfk05hy2017.com.hk</string>
+    <string name="servletIP">www.xxx.com</string>
     <string name="servletPort">90</string>
-    <string name="serviceName">SFK2</string>
-    <string name="emmsIP">www.emms.sfk05hy2017.com.hk</string>
+    <string name="serviceName">xxx</string>
+    <string name="emmsIP">000.000.000.000</string>
     <string name="permission_necessary">permission_necessary</string>
     <string name="storage_permission_is_encessary_to_wrote_event">storage_permission_is_encessary_to_wrote_event</string>
     <string name="label_LoginName">Name :</string>
     <string name="label_LoginPw">Password :</string>
     <string name="label_LoginBtn">Login</string>
     <string name="blank">blank</string>
-    <string name="google_project_id">367024193522</string>
+    <string name="google_project_id">xxxxxxxx</string>
     <string name="search">Case NO / Street</string>
     <string name="jpg_compress_ratio">100</string>
     <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
